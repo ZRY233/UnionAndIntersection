@@ -5,6 +5,6 @@
 
 # 效果如下图所示
 
-![预览图_1](https://raw.githubusercontent.com/ZRY233/UnionAndIntersection/main/1.png)
+![效果图_1](https://s3.bmp.ovh/imgs/2023/02/06/f8207b0ba9f32299.png)
 
-![预览图_2](https://raw.githubusercontent.com/ZRY233/UnionAndIntersection/main/2.png "末尾2")
+![效果图_2](https://s3.bmp.ovh/imgs/2023/02/06/9b8f06395f7ecc3a.png)
